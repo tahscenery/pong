@@ -2,19 +2,17 @@
 
 ## How to run
 
-To run the game, use
+To play the game on Windows and Linux, run:
 
 ```
 cargo run --features "vulkan"
 ```
 
-on Windows and Linux, and
+And on macOS run:
 
 ```
 cargo run --features "metal"
 ```
-
-on macOS.
 
 For building without any graphics backend, you can use
 
